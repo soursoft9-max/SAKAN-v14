@@ -1,0 +1,19 @@
+{
+  "name": "سَكَن | لوحة المشرفة",
+  "short_name": "سَكَن",
+  "start_url": "./m-supervisor.html",
+  "scope": "./",
+  "display": "standalone",
+  "dir": "rtl",
+  "lang": "ar",
+  "background_color": "#F8F5ED",
+  "theme_color": "#17243A",
+  "icons": [
+    {
+      "src": "./images/sakan-logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
